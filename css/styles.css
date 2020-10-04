@@ -1,0 +1,139 @@
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: dotted none none none;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+/**************************Classes*********************************/
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #6FBFBF;
+  padding: 50px 0 20px;
+  line-height: 2;
+}
+
+.contact-button {
+  margin-bottom: 3%;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copywright-text {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.design-picture {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  /*centers the text after the width is reduced*/
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-picture {
+  height: 150px;
+  width: 10%;
+  vertical-align: middle;
+  border-radius: 50%
+}
+
+.security-picture {
+  width: 25%;
+  height: 150px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
